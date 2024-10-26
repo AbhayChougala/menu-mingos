@@ -7,7 +7,7 @@ const CartItem = ({id,name,category,price,amount}) => {
       //hello
         // amount > 1 ? setAmount(amount - 1) : setAmount(1);
       };
-    
+    //helloworld
       const setIncrease = () => {
         // amount < stock ? setAmount(amount + 1) : setAmount(stock);
       };
