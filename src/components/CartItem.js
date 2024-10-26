@@ -4,6 +4,7 @@ import { FaTrash } from "react-icons/fa";
 
 const CartItem = ({id,name,category,price,amount}) => {
     const setDecrease = () => {
+      //hello
         // amount > 1 ? setAmount(amount - 1) : setAmount(1);
       };
     
